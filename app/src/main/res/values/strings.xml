@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AI Application</string>
+    <string name="prompt">Prompt</string>
+    <string name="submit">Submit</string>
+    <string name="show_the_result">Show the result</string>
+    <string name="ai_at_your_service">AI at your service</string>
+</resources>
